@@ -1,5 +1,5 @@
 ---
-ns: WEAPON
+ns: cal 50
 ---
 ## GIVE_WEAPON_TO_PED
 
